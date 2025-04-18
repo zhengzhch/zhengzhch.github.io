@@ -40,10 +40,17 @@ Developed and guided course materials for compiler design, with key contribution
 
 ## Honor
 2024/10, First-Prize Scholarship, Sun Yat-sen University 
+
 2024/07, First Prize, Best Teaching Case, China Computer Education Conference(CCEC'24) 
+
 2023/11, Second-Prinze, Greater Bay Area Cup AI for Science Technology Competition
+
 2023/08, First-Prize, Huawei Bisheng Cup Compiler System Design Competition (CSC)
+
 2022/09, CCF Elite Collegiate Award (102 in China), China Computer Federation (CCF) 
+
 2022/06, Top 5%, CCF Certified Software Professional 
+
 2022/04, Gold Award,iGEM Competition 
+
 2021/10, Second-Prize Scholarship, Sun Yat-sen University 
