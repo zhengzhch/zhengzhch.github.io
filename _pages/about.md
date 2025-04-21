@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Education
-**Sun Yat-sen University B.E. · MA.Eng in Computer Science 2019/09 - 2026/06 (expected)**
+**Sun Yat-sen University B.E. · MA.Eng in Computer Science , 2019/09 - 2026/06 (expected)**
 - Supervised by X. Zhang, interested in **compiler** and **Machine Learning**.
 
 ## Research
