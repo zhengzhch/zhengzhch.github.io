@@ -32,11 +32,13 @@ T. Zhang, G. Chen, W. Pan, Z. Zheng, G. Sun and X. Zhang. ICCCS'25
 
 ## Experience
 2024/08 - now, Huawei 2012 Lab, Compiler Engineer (Intern) 
+
 2024/02 - 2024/07, Sun Yat-sen University, School of Computer Science ,Teach Assistant for DCS292 - Compiler Construction.
+
 Developed and guided course materials for compiler design, with key contributions to:
 - Experiment 3 (IR Generation) –Translating AST to LLVM IR.
 - Experiment 4 (Optimization) –Implementing and analyzing IR-level optimizations.
-- Pioneered the integration of LLMs to assist in code generation and optimization.
+- Integrating LLMs for code generation and performance optimization.
 
 ## Honor
 2024/10, First-Prize Scholarship, Sun Yat-sen University 
