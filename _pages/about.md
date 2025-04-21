@@ -25,9 +25,11 @@ Z. Zheng, Y. Wu, X. Zhang. GitHub. NAS'24
 - mLOOP is implemented as an LLVM optimization pass, enabling seamless deployment within existing compiler pipelines.
 
 **GoPTX: Fine-grained GPU Kernel Fusion by PTX-level Instruction Weaving**
+
 K. Wu, Z. Lin, X. Meng, Z. Zheng, W. Pan, X. Zhang, Y. Lu. GitHub. DAC'25
 
 **REFIT: Improve Code Efficiency via Binary Level Loop Optimization**
+
 T. Zhang, G. Chen, W. Pan, Z. Zheng, G. Sun and X. Zhang. ICCCS'25
 
 ## Research Interest
