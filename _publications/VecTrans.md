@@ -1,7 +1,7 @@
 ---
 title: "VecTrans: LLM Transformation Framework for Better Auto-vectorization on High-performance CPU"
 collection: submitted
-category: Conference 
+category: conference 
 permalink: /publication/VecTrans
 excerpt: "VecTrans leverages LLMs to enhance compiler-based code vectorization. And it first employs compiler analysis to identify potentially vectorizable code regions. It then utilizes an LLM to refactor these regions into patterns that are more amenable to the compiler's auto-vectorization."
 date: 2025-03-22
