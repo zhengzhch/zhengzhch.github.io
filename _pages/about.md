@@ -13,11 +13,13 @@ redirect_from:
 
 ## Research
 [**VecTrans: LLM Transformation Framework for Better Auto-vectorization on High-performance CPU**](https://arxiv.org/abs/2503.19449)
+
 Z. Zheng, L. Cheng, L. Li, R. Rocha, T. Liu, W. Wei, X. Zhang, Y. Gao. LCTES'25 submitted
 - VecTrans leverages LLMs to enhance compiler-based code vectorization.
 - VecTrans first employs compiler analysis to identify potentially vectorizable code regions. It then utilizes an LLM to refactor these regions into patterns that are more amenable to the compiler's auto-vectorization.
 
 [**mLOOP: Optimize Loop Unrolling in Compilation with a ML-based Approach**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10781373)
+
 Z. Zheng, Y. Wu, X. Zhang. GitHub. NAS'24
 - mLOOP employs the XGBoost model to predict loop unroll factors.
 - mLOOP is implemented as an LLVM optimization pass, enabling seamless deployment within existing compiler pipelines.
